@@ -1,5 +1,5 @@
 # reinforcement_learning_navigation
-Deep Q-Network to train an agent to pick to navigate a space and pick up yellow bananas
+Deep Q-Network to train an agent to pick to navigate a space and pick up yellow bananas. Watch this [video](https://youtu.be/_lqlJ6umfBE) to see the agent in action.
 
 <img src="Duelling_DQN_500_Episodes.gif" width="400" height="300" />
 
@@ -39,4 +39,4 @@ jupyter notebook Navigation.ipynb
 ### Approach
 
 The model.py file comprises python implementations of the deep Q-network and duelling Q-network algorithms, approaches learned from this Deepmind [paper](https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf).
-Watch this [video](https://youtu.be/_lqlJ6umfBE) to see the agent in action.
+
