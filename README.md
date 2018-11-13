@@ -16,12 +16,12 @@ The state space has 37 dimensions and contains the agent's velocity, along with 
     2 - turn left.
     3 - turn right.
 
-The task is episodic, and in order to solve the environment, the agent should achieve an average score of +13 over 100 consecutive episodes.
+The task is episodic. To solve the environment, the agent should achieve an average score of +13 over 100 consecutive episodes.
 
 
 ### Set Up
 
-Clone this repository, change directory into the python file and install the dependencies. I'd recommend taking these steps withing a conda [environment](https://conda.io/docs/user-guide/tasks/manage-environments.html#creating-an-environment-with-commands).
+To run this project on your local machine, clone this repository, change directory into the python file and install the dependencies. I'd recommend taking these steps withing a conda [environment](https://conda.io/docs/user-guide/tasks/manage-environments.html#creating-an-environment-with-commands).
 
 ```
 git clone https://github.com/rastringer/reinforcement_learning_navigation.git
@@ -31,7 +31,12 @@ pip install .
 
 Then run the Navigation.ipynb notebook.
 
+```
+jupyter notebook Navigation.ipynb
+```
+
+
 ### Approach
 
 The model.py file comprises python implementations of the deep Q-network and duelling Q-network algorithms, approaches learned from this Deepmind [paper](https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf).
-
+Watch this [video](https://youtu.be/_lqlJ6umfBE) to see the agent in action.
