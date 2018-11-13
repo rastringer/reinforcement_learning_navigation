@@ -3,4 +3,4 @@ Deep Q-Network to train an agent to pick to navigate a space and pick up yellow 
 
 
 
-<img src="Duelling_DQN_500_Episodes.gif" width="40" height="40" />
+<img src="Duelling_DQN_500_Episodes.gif" width="400" height="400" />
