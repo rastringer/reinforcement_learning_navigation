@@ -21,7 +21,7 @@ The task is episodic. To solve the environment, the agent should achieve an aver
 
 ### Set Up
 
-To run this project on your local machine, clone this repository, change directory into the python file and install the dependencies. I'd recommend taking these steps withing a conda [environment](https://conda.io/docs/user-guide/tasks/manage-environments.html#creating-an-environment-with-commands).
+To run this project on your local machine, clone this repository, change directory into the python file and install the dependencies. I'd recommend taking these steps within a conda [environment](https://conda.io/docs/user-guide/tasks/manage-environments.html#creating-an-environment-with-commands).
 
 ```
 git clone https://github.com/rastringer/reinforcement_learning_navigation.git
